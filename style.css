@@ -7,7 +7,7 @@
 .banner {
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(инвокер.gif);
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(инвокер.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -104,7 +104,7 @@ button:hover {
 
 .main {
     background-color:rgb(9,8,10) ;
-    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(инвокер-invoker.gif);
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(инвокер-invoker.jpg);
     background-repeat: no-repeat;
     width: 100%;
     background-size: cover;
